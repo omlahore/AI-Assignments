@@ -25,25 +25,9 @@ Each folder contains a README file with specific instructions and explanations r
 
 ## Assignments
 
-1. **Assignment 1: Introduction to Machine Learning**
-   - Description: Basic ML models using Scikit-Learn
-   - Folder: `assignment_1_machine_learning`
-
-2. **Assignment 2: Deep Learning with TensorFlow**
-   - Description: Building neural networks using TensorFlow and Keras
-   - Folder: `assignment_2_deep_learning`
-
-3. **Assignment 3: Natural Language Processing**
-   - Description: Text classification and sentiment analysis
-   - Folder: `assignment_3_nlp`
-
-4. **Assignment 4: Computer Vision**
-   - Description: Image classification using Convolutional Neural Networks (CNNs)
-   - Folder: `assignment_4_computer_vision`
-
-5. **Assignment 5: Reinforcement Learning**
-   - Description: Implementing basic RL algorithms
-   - Folder: `assignment_5_reinforcement_learning`
+1. **Assignment 1: Introduction to AI**
+   - Description: Missionaries and Cannibals problem using Artificial Intelligence
+   - Folder: `assignment_1`
 
 ## Installation
 
